@@ -2,7 +2,7 @@
 
 Welcome to this Spring Boot(camp) session!
 
-*Who said there's no Spring in Singapore?**
+*Who said there's no Spring in Singapore?*
 
 During this session, you're going to build and deploy your app to
 a Kubernetes cluster in no time, leveraging
@@ -157,7 +157,6 @@ a new build will kickstart automatically.
 
 After a few minutes, you'll get a public URL for your app:
 
-TODO add Knative URL
 ```shell
 🚢 Knative Services
    NAME        READY   URL
